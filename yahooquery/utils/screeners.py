@@ -1,4 +1,9 @@
 SCREENERS = {
+    "dividends": {
+        "desc": "Dividends Stocks",
+        "id": "c697a4d1-d1c6-4dc0-8db0-bf223412f511",
+        "title": "Dividends",
+    },
     "advertising_agencies": {
         "desc": "Advertising Agencies Stocks",
         "id": "b184527b-0fab-4477-b961-af240928f1cc",
